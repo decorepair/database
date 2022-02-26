@@ -34,5 +34,5 @@
       "tests/BaseTestCase.php"
     ]
   },
-  "minimum-stability": "stable"
+  "minimum-stability": "dev"
 }
